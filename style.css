@@ -1,0 +1,123 @@
+.body {
+    background-image: url('background.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 1350px;
+    height: 98vh;
+
+
+}
+
+.main {
+    text-align: center;
+}
+
+.box1 {
+    height: 400px;
+    width: 250px;
+    background-color: darkviolet;
+    border-radius: 30px 30px 30px 30px;
+    position: relative;
+    left: 120px;
+    bottom: -40px;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px;
+}
+
+.box2 {
+    height: 400px;
+    width: 250px;
+    background-color: beige;
+    position: absolute;
+    left: 540px;
+    top: 160px;
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px;
+}
+
+.box3 {
+    height: 400px;
+    width: 250px;
+    background-color: beige;
+    position: absolute;
+    left: 950px;
+    top: 160px;
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px;
+}
+
+.price {
+    margin-top: -20px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.content2 {
+    margin-top: -10px;
+}
+
+
+.tittle {
+    margin-left: 95px;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.content {
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.button1 {
+    text-align: center;
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.button4 {
+    border: none;
+    font-size: x-large;
+    padding: 10px;
+    color: black;
+    border-radius: 30px;
+    background-color: white;
+    cursor: pointer;
+
+}
+
+.button2 {
+    text-align: center;
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.button5 {
+    border: none;
+    font-size: x-large;
+    padding: 10px;
+    color: black;
+    border-radius: 30px;
+    background-color: rgb(245, 159, 0);
+    cursor: pointer;
+}
+
+.button3 {
+    text-align: center;
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.button6 {
+    border: none;
+    font-size: x-large;
+    padding: 10px;
+    color: black;
+    border-radius: 30px;
+    background-color: darkviolet;
+    cursor: pointer;
+}
